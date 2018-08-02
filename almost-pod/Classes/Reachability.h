@@ -24,6 +24,7 @@
  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  POSSIBILITY OF SUCH DAMAGE. 
  */
+ //This is an update to test the version of cocoapods
 
 #import <Foundation/Foundation.h>
 #import <SystemConfiguration/SystemConfiguration.h>
@@ -74,6 +75,9 @@ typedef void (^NetworkUnreachable)(Reachability * reachability);
 
 @property (nonatomic, copy) NetworkReachable    reachableBlock;
 @property (nonatomic, copy) NetworkUnreachable  unreachableBlock;
+
+
+@property (nonatomic,copy) NSString * uploadcocoapods;
 
 
 @property (nonatomic, assign) BOOL reachableOnWWAN;
