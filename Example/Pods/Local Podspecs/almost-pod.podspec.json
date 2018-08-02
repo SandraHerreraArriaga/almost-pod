@@ -1,0 +1,22 @@
+{
+  "name": "almost-pod",
+  "version": "0.1.0",
+  "summary": "A short description of almost-pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SandraHerreraArriaga/almost-pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SandraHerreraArriaga": "sandra.herrera@edisoneffect.tech"
+  },
+  "source": {
+    "git": "https://github.com/SandraHerreraArriaga/almost-pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "almost-pod/Classes/**/*"
+}

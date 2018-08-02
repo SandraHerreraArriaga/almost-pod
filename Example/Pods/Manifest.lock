@@ -1,0 +1,16 @@
+PODS:
+  - almost-pod (0.1.0)
+
+DEPENDENCIES:
+  - almost-pod (from `../`)
+
+EXTERNAL SOURCES:
+  almost-pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  almost-pod: 7b8497a1d81b2224a4fc59319c897702709d3fe1
+
+PODFILE CHECKSUM: e4095fc94960f3ef40d8acf6e29b662ee955e9f2
+
+COCOAPODS: 1.5.3

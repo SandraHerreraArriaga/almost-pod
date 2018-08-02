@@ -1,0 +1,6 @@
+framework module almost_pod {
+  umbrella header "almost-pod-umbrella.h"
+
+  export *
+  module * { export * }
+}
