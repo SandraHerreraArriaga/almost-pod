@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'almost-pod_Example' do
+  pod 'almost-pod', :path => '../'
+
+  target 'almost-pod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
